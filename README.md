@@ -33,7 +33,7 @@ data/
 - `MuNfQuAD_v2.pkl` and `train_urls.pkl` can be obtained from [MuNfQuAD GitHub](https://github.com/ritwikmishra/MuNfQuAD).
 - Gen2OIE models should be placed in `data/gen2oie_models/` (see [moie GitHub](https://github.com/dair-iitd/moie)).
 - Chunking scripts are from [IndIE](https://github.com/ritwikmishra/IndIE).
-- All project artefacts can be downloaded from [here](drive-link).
+- All project artefacts can be downloaded from [here](https://drive.google.com/file/d/1_BpQdqGsb_7EEd2xmgcoBtleKu7wYzao/view?usp=sharing).
 
 **Chunking model:**  
 Store the chunking model at:  
